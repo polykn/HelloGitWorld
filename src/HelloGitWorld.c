@@ -15,6 +15,7 @@
 
 int main(void) {
 	puts(MYSTRING1); /* prints !!!Hello World!!! */
+	puts("THIS STRING REMOVED THE BUG\n\r");
 	getchar();
 	return EXIT_SUCCESS;
 }
