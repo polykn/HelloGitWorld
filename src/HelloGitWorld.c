@@ -11,7 +11,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#include "mystring.h"
+
 int main(void) {
-	puts("!!!Jamen goddag :-) !!!"); /* prints !!!Hello World!!! */
+	puts(MYSTRING1); /* prints !!!Hello World!!! */
+	getchar();
 	return EXIT_SUCCESS;
 }
