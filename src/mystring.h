@@ -8,6 +8,6 @@
 #ifndef MYSTRING_H_
 #define MYSTRING_H_
 
-#define MYSTRING1 "THIS IS MY STRING"
+#define MYSTRING1 "Hello github world!!"
 
 #endif /* MYSTRING_H_ */
